@@ -8,6 +8,7 @@ The table was compiled by [Rachael Griffiths](https://github.com/rgriffiths1) an
 To access the table directly, click on [abbr.csv](https://github.com/ERC-TibSchol/abbreviations/blob/master/abbr.csv). 
 
 # Sources
+A large part of TibSchol’s corpus appeared in the series bKa’ gdams gsung ’bum phyogs bsgrigs thengs dang po/gnyis pa/gsum pa/bzhi pa. 120 vols. Ed. dPal brtsegs bod yig dpe rnying zhib ’jug khang. Chengdu: Si khron mi rigs dpe skrun khang, 2006, 2007, 2009, 2015.
 
 # Notes
 The table was arranged using the [Python port of BDRC's JS Library](https://github.com/Esukhia/tibetan-sort-python). For more on sorting Tibetan in alphabetical order, see [this](https://www.bdrc.io/blog/2022/03/30/sorting-out-tibetan-alphabetical-order/?lang=bo) post by [Élie Roux](https://github.com/eroux). 
