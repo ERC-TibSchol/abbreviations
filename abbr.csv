@@ -22,23 +22,23 @@ gsngaD,གསྔཌ,gsang sngags,གསང་སྔགས
 ngodi,ངོདི,ngo bo nyid,ངོ་བོ་ཉིད
 ngo+o,ངོོ,ngo bo,ངོ་བོ
 cheno,ཆེནོ,bsod nams,ཆེན་པོ
-chon,ཆོན,chos can,ཅོས་ཅན
+chon,ཆོན,chos can,ཆོས་ཅན
 j+tir,ཇྟིར,ji ltar,ཇི་ལྟར
 nyi+u,ཉིུ,nyi shu,ཉི་ཤུ
 nyos,ཉོས,nyan thos,ཉན་ཐོས
 nyo+ongs,ཉོོངས,nyong mongs,ཉོང་མོངས
 Na,ཎ,med,མེད
 ting^ani,ཏིང༹ནི,ting 'dzin,ཏིང་འཛིན
-tingeni,ཏིངེནི,ting ge 'dzin,ཏིང་གེ་འཛིན
-tingen^i,ཏིངེནི༹,ting ge 'dzin,ཏིང་གེ་འཛིན
-ting^eni,ཏིངེ༹ནི,ting ge 'dzin,ཏིང་གེ་འཛིན
+tingeni,ཏིངེནི,ting nge 'dzin,ཏིང་ངེ་འཛིན
+tingen^i,ཏིངེནི༹,ting nge 'dzin,ཏིང་ངེ་འཛིན
+ting^eni,ཏིངེ༹ནི,ting nge 'dzin,ཏིང་ངེ་འཛིན
 thaMd,ཐཾད,thams cad,ཐམས་ཅད
 th+yo+ed,ཐྱོེད,thogs med,ཐོགས་མེད
-thige,ཐིགེ,thig le,ཐིག་ལེ 
+thige,ཐིགེ,thig le,ཐིག་ལེ
 thu+ong,ཐོུང,thun mong,ཐུན་མོང
 thu+oMng,ཐོུཾང,thun mong,ཐུན་མོང
 tho+eM,ཐོེཾ,the tshom,ཐེ་ཚོམ
-dkyo+ir,དཀྱོིར,dkyil khor,དཀྱིལ་ཁོར
+dkyo+ir,དཀྱོིར,dkyil 'khor,དཀྱིལ་འཁོར
 dko+og,དཀོོག,dkon chog,དཀོན་ཆོག
 daMg^i,དཾགི༹,dam tshig,དམ་ཚིག
 dge+un,དགེུན,dge 'dun,དགེ་འདུན
@@ -64,9 +64,9 @@ bdid,བདིད,bdag nyid,བདག་ཉིད
 bd^udi,བདུ༹དི,bdud rtsi,བདུད་རྩི
 byub,བྱུབ,byang chub,བྱང་ཆུབ
 byeg,བྱེག,bye brag,བྱེ་བྲག
-by+u+edM,བྱེུདཾ,byang chub sems dpa,བྱང་ཆུབ་སེམས་དཔ
+by+u+edM,བྱེུདཾ,byang chub sems dpa',བྱང་ཆུབ་སེམས་དཔའ
 bard,བརད,bar chad,བར་ཆད
-br+ts+ru+os,བརྩྲོུས,brtson 'grus ,བརྩོན་འགྲུས
+br+ts+ru+os,བརྩྲོུས,brtson 'grus,བརྩོན་འགྲུས
 brye,བྲྱེ,bye brag,བྱེ་བྲག
 bshadr,བཤདར,bshad par,བཤད་པར
 bstos,བསྟོས,bstan bcos,བསྟན་བཅོས
@@ -86,21 +86,22 @@ tshyid,ཚྱིད,mtshan nyid,མཚན་ཉིད
 tshid,ཚིད,mtshan nyid,མཚན་ཉིད
 tshed,ཚེད,tshad med,ཚད་མེད
 zhesdang,ཞེསྡང,zhes dang,ཞེས་དང་
-khoro,འཁོརོ, 'khor lo,འཁོར་ལོ
-jiDed,འཇིཌེད, 'jigs byed,འཇིགས་བྱེད
- 'ji+en,འཇིེན, 'jig rten,འཇིག་རྟེན
-doD,འདོཌ, 'dod chags,འདོད་ཆགས
-phris,འཕྲིས,phrin las,འཕྲིན་ལས
-brus,འབྲུས, 'bras bu,འབྲས་བུ
-big,འབིག, 'ba' zhig,འབའ་ཞིག
- 'oder,འོདེར, 'od zer,འོད་ཟེར
+'khoro,འཁོརོ,'khor lo,འཁོར་ལོ
+'jiDed,འཇིཌེད,'jigs byed,འཇིགས་བྱེད
+'ji+en,འཇིེན,'jig rten,འཇིག་རྟེན
+'doD,འདོཌ,'dod chags,འདོད་ཆགས
+'phris,འཕྲིས,'phrin las,འཕྲིན་ལས
+'brus,འབྲུས,'bras bu,འབྲས་བུ
+'big,འབིག,'ba' zhig,འབའ་ཞིག
+'oder,འོདེར,'od zer,འོད་ཟེར
 y+ton,ཡྟོན,yon tan,ཡོན་ཏན
 y+nag,ཡྣག,yan lag,ཡན་ལག
 y+lag,ཡླག,yan lag,ཡན་ལག
 yun,ཡུན,yul can,ཡུལ་ཅན
 ye+es,ཡཻས,ye shes,ཡེ་ཤེས
 rgy^un,རྒྱུ༹ན,rgyu mtshan,རྒྱུ་མཚན
-rangid,རངིད,rang nyid,རང་ཉིད 
+rgyu+en,རྒྱེུན,rgyu rkyen,རྒྱུ་རྐྱེན
+rangid,རངིད,rang nyid,རང་ཉིད
 rangin,རངིན,rang bzhin,རང་བཞིན
 rdo+e,རྡོེ,rdo rje,རྡོ་རྗེ
 rnaMr,རྣཾར,rnam par,རྣམ་པར
@@ -111,8 +112,9 @@ rine,རིནེ,rin chen,རིན་ཆེན
 ri+en,རིེན,rin chen,རིན་ཆེན
 ltu,ལྟུ,lta bu,ལྟ་བུ
 lyo+od,ལྱོོད,longs spyod,ལོངས་སྤྱོད
+laswo,ལསྭོ,la sogs,ལ་སོགས
 laMse,ལཾསེ,lam shes,ལམ་ཤེས
-laso,ལསོ,las sogs,ལ་སོགས
+laso,ལསོ,la sogs,ལ་སོགས
 shreb,ཤྲེབ,shes rab,ཤེས་རབ
 sheb,ཤེབ,shes rab,ཤེས་རབ
 skagis,སྐགིས,skad cig gis,སྐད་ཅིག་གིས
