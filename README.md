@@ -22,4 +22,4 @@ The [Resources for Kanjur and Tenjur Studies](http://www.rkts.org/abb/index.php)
 
 A list of abbreviations can be found in Appendix I of van der Kuijp, Leonard W. J., et al. Bcom Ldan Ral Gri (1227-1305) on Indian Buddhist Logic and Epistemology : His Commentary on Dignāga's Pramāṇasamuccaya. Wien: [WSTB 80](https://wstb.univie.ac.at/product/wstb-no-80/), 2013.
 
-Shes rab. sKung yig gsal byed nor bu’i me long. Beijing: Mi rigs dpe skrun khang, 2003.
+Shes rab. sKung yig gsal byed nor bu’i me long. Beijing: Mi rigs dpe skrun khang, 2003. A book of Tibetan abbreviations arranged alphabetically.
