@@ -13,7 +13,7 @@ A large part of TibSchol’s corpus appeared in the series bKa’ gdams gsung �
 # Notes
 The table is arranged alphabetically using the [Python port of BDRC's JS Library](https://github.com/Esukhia/tibetan-sort-python). For more on sorting Tibetan in alphabetical order, see [this](https://www.bdrc.io/blog/2022/03/30/sorting-out-tibetan-alphabetical-order/?lang=bo) post by [Élie Roux](https://github.com/eroux).
 
-The database is in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values). Column 1 and 2 present the abbreviations to the degree it is possible using the [Extended Wylie Transliteration Scheme](https://www.thlib.org/reference/transliteration/#!essay=/thl/ewts/intro/) (EWTS) and existing Tibetan Unicode. Column 3 and 4 present the expansions in EWTS and Unicode.
+The database is in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values). Columns 1 and 2 present the abbreviations to the degree it is possible using the [Extended Wylie Transliteration Scheme](https://www.thlib.org/reference/transliteration/#!essay=/thl/ewts/intro/) (EWTS) and existing Tibetan Unicode. Columns 3 and 4 present the expansions in EWTS and Unicode.
 
 # Other Resources
 A list of 300+ abbreviations can be found on [Babelstone](https://www.babelstone.co.uk/Tibetan/Contractions.html).
@@ -22,4 +22,4 @@ The [Resources for Kanjur and Tenjur Studies](http://www.rkts.org/abb/index.php)
 
 A list of abbreviations can be found in Appendix I of van der Kuijp, Leonard W. J., et al. Bcom Ldan Ral Gri (1227-1305) on Indian Buddhist Logic and Epistemology : His Commentary on Dignāga's Pramāṇasamuccaya. Wien: [WSTB 80](https://wstb.univie.ac.at/product/wstb-no-80/), 2013.
 
-Shes rab. sKung yig gsal byed nor bu’i me long. Beijing: Mi rigs dpe skrun khang, 2003. A book of Tibetan abbreviations arranged alphabetically.
+Shes rab. sKung yig gsal byed nor bu’i me long. Beijing: Mi rigs dpe skrun khang, 2003. [BDRC: MW25257](http://purl.bdrc.io/resource/MW25257). A book of Tibetan abbreviations arranged alphabetically.
