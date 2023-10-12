@@ -1,7 +1,7 @@
 # Tibetan Abbreviations
 This repository contains a table of Tibetan abbreviations found in sources being explored by the ERC project *The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol)*. Cf. https://www.oeaw.ac.at/projects/tibschol for more information. 
 
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001002). See https://cordis.europa.eu/project/id/101001002.
+This project, hosted at the Institute for Cultural and Intellectual History of Asia of the Austrian Academy of Sciences, has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001002). See https://cordis.europa.eu/project/id/101001002.
 
 The table was compiled by [Rachael Griffiths](https://github.com/rgriffiths1) and will be updated over the course of the project. 
 
