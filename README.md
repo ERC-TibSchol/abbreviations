@@ -1,6 +1,6 @@
 # Tibetan Abbreviations
 
-[DOI: 10.5281/zenodo.10450653](https://zenodo.org/records/10450653)
+[![DOI](https://zenodo.org/badge/654125527.svg)](https://zenodo.org/doi/10.5281/zenodo.10450652)
 
 This repository contains a table of Tibetan abbreviations found in sources being explored by the ERC project *The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol)*. Cf. https://www.oeaw.ac.at/projects/tibschol for more information. 
 
